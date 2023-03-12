@@ -10,8 +10,12 @@ git remote add origin https://github.com/mmankar/TestingNewGitProject.git
 git push -u origin main
 */
 public class Test1 {
+	
 
 	public static void main(String[] args) {
 		System.out.println("I am working!!!");
+		
+		System.out.println("Entry added successfully!!!");
+		
 	}
 }
